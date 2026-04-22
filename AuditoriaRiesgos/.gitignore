@@ -1,0 +1,27 @@
+# Archivos específicos a ignorar
+Resumen.pdf
+Caso.md
+Caso.pdf
+
+# Dependencias y entornos (NO se necesitan en Git)
+node_modules/
+venv/
+env/
+.env
+.env.local
+
+# Compilación y build
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
